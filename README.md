@@ -8,6 +8,8 @@ I was sick of my css noot updating when I was working with my flask development 
 
 # Usage
 
+Install with `pip3 install flask-cfpurger`
+
 Example in flask app's __init__.py:
 ```
 from flask_cfpurge import Purger
