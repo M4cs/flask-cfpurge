@@ -2,6 +2,10 @@
 
 Automate Purging Your File Cache On Cloudflare To Easily Update Your Webpages
 
+# Why I made this
+
+I was sick of my css noot updating when I was working with my flask development environment so I wrote this library to hit thee purge cache endpoint everytime my server restarted.
+
 # Usage
 
 Example in flask app's __init__.py:
